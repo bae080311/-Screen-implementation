@@ -60,3 +60,12 @@
 4월 21, 2025 12:19:09.76 [17740:5896:0421/121909.768:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
 4월 21, 2025 12:21:32.23 [17740:17524:0421/122132.234:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
 4월 21, 2025 12:26:48.29 [17740:5896:0421/122648.294:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 21, 2025 12:30:33.25 [17740:5896:0421/123033.259:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 21, 2025 12:56:36.36 [17740:5896:0421/125636.356:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 21, 2025 12:56:37.56 [17740:5896:0421/125637.568:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 21, 2025 12:57:35.60 [17740:5896:0421/125735.605:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 21, 2025 12:58:43.67 [17740:5896:0421/125843.655:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 21, 2025 13:30:16.61 [17740:5896:0421/133016.611:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 21, 2025 13:47:21.43 [17740:5896:0421/134721.436:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 21, 2025 13:52:35.68 [17740:5896:0421/135235.682:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 21, 2025 13:52:35.70 [17740:5896:0421/135235.706:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
