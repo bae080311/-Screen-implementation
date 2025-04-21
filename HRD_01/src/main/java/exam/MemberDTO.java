@@ -1,0 +1,55 @@
+package exam;
+
+//DTO(V0) Class: 여러개의 변수를 하나의 객체로 묶는 역할
+public class MemberDTO {
+	// 1. 멤버변수 선언: 정보은닉(접근제어자 private 선언), 변수명은 반드시 DB 컬럼ID명과 일치!!!
+	// DB Type: number -> JAVA: int, double
+	// DB Type: char, varchar2, date -> JAVA: string
+	private int custno;
+	private String custname, phone, address, joindate, grade, city;
+	
+	// 2. 멤버변수 접근: Getters & Setter Method
+    // Source Menu Bar(마오 > Source)
+	public int getCustno() {
+		return custno;
+	}
+	public void setCustno(int custno) {
+		this.custno = custno;
+	}
+	public String getCustname() {
+		return custname;
+	}
+	public void setCustname(String custname) {
+		this.custname = custname;
+	}
+	public String getPhone() {
+		return phone;
+	}
+	public void setPhone(String phone) {
+		this.phone = phone;
+	}
+	public String getAddress() {
+		return address;
+	}
+	public void setAddress(String address) {
+		this.address = address;
+	}
+	public String getJoindate() {
+		return joindate;
+	}
+	public void setJoindate(String joindate) {
+		this.joindate = joindate;
+	}
+	public String getGrade() {
+		return grade;
+	}
+	public void setGrade(String grade) {
+		this.grade = grade;
+	}
+	public String getCity() {
+		return city;
+	}
+	public void setCity(String city) {
+		this.city = city;
+	}
+}// class

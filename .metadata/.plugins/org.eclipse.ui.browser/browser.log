@@ -1,0 +1,62 @@
+
+4월 07, 2025 12:24:53.40 NEW SESSION
+4월 07, 2025 12:24:53.40 [25716:20592:0407/122453.400:ERROR:cloud_policy_validator.cc(616)] New signature verification failed
+4월 07, 2025 12:24:55.70 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 07, 2025 12:24:55.71 [25716:20384:0407/122455.719:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:25:22.23 [25716:20384:0407/122522.237:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:26:06.35 [25716:20384:0407/122606.353:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:28:02.91 [25716:20384:0407/122802.911:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:30:28.30 [25716:20384:0407/123028.305:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 07, 2025 12:31:34.39 [25716:20384:0407/123134.394:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:31:39.23 [0407/123139.231:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\29da42db-af0e-4d55-ba71-d1b39a34276c: 지정된 파일을 찾을 수 없습니다. (0x2)
+4월 07, 2025 12:31:39.23 [0407/123139.234:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\c6dad25b-ac7c-4c7c-b36d-739fca17847e: 지정된 파일을 찾을 수 없습니다. (0x2)
+4월 07, 2025 12:31:39.23 [0407/123139.235:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\a9fec732-56e5-4989-a9ad-99f60294052b: 지정된 파일을 찾을 수 없습니다. (0x2)
+4월 07, 2025 12:31:39.23 [0407/123139.237:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\29da42db-af0e-4d55-ba71-d1b39a34276c: 지정된 파일을 찾을 수 없습니다. (0x2)
+4월 07, 2025 12:31:39.23 [0407/123139.237:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\c6dad25b-ac7c-4c7c-b36d-739fca17847e: 지정된 파일을 찾을 수 없습니다. (0x2)
+4월 07, 2025 12:31:39.23 [0407/123139.238:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\a9fec732-56e5-4989-a9ad-99f60294052b: 지정된 파일을 찾을 수 없습니다. (0x2)
+4월 07, 2025 12:33:14.33 [7660:25324:0407/123314.336:ERROR:cloud_policy_validator.cc(616)] New signature verification failed
+4월 07, 2025 12:33:17.53 [7660:20932:0407/123317.534:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:33:17.53 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 07, 2025 12:33:46.59 [7660:20932:0407/123346.590:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:34:32.51 [7660:20932:0407/123432.510:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:36:08.70 [7660:20932:0407/123608.703:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:39:39.94 [7660:20932:0407/123939.942:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:40:31.71 [0407/124031.717:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\29da42db-af0e-4d55-ba71-d1b39a34276c: 지정된 파일을 찾을 수 없습니다. (0x2)
+4월 07, 2025 12:40:31.71 [0407/124031.718:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\c6dad25b-ac7c-4c7c-b36d-739fca17847e: 지정된 파일을 찾을 수 없습니다. (0x2)
+4월 07, 2025 12:40:31.71 [0407/124031.718:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\a9fec732-56e5-4989-a9ad-99f60294052b: 지정된 파일을 찾을 수 없습니다. (0x2)
+4월 07, 2025 12:40:31.71 [0407/124031.719:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\29da42db-af0e-4d55-ba71-d1b39a34276c: 지정된 파일을 찾을 수 없습니다. (0x2)
+4월 07, 2025 12:40:31.72 [0407/124031.719:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\c6dad25b-ac7c-4c7c-b36d-739fca17847e: 지정된 파일을 찾을 수 없습니다. (0x2)
+4월 07, 2025 12:40:31.72 [0407/124031.720:ERROR:filesystem_win.cc(128)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\a9fec732-56e5-4989-a9ad-99f60294052b: 지정된 파일을 찾을 수 없습니다. (0x2)
+4월 07, 2025 12:40:44.63 [8724:16704:0407/124044.632:ERROR:cloud_policy_validator.cc(616)] New signature verification failed
+4월 07, 2025 12:40:47.99 [8724:7136:0407/124047.998:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:40:48.00 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 07, 2025 12:41:14.22 [8724:7136:0407/124114.225:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:41:56.73 [8724:7136:0407/124156.737:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:43:20.36 [8724:7136:0407/124320.359:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:46:28.91 [8724:7136:0407/124628.918:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 12:54:07.27 [8724:7136:0407/125407.278:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 15:13:15.08 [11008:18548:0407/151315.083:ERROR:cloud_policy_validator.cc(616)] New signature verification failed
+4월 07, 2025 15:13:17.61 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 07, 2025 15:13:17.62 [11008:17036:0407/151317.620:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 15:13:45.01 [11008:17036:0407/151345.010:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 07, 2025 15:14:37.93 [24964:8312:0407/151437.937:ERROR:cloud_policy_validator.cc(616)] New signature verification failed
+4월 07, 2025 15:14:40.32 [24964:20792:0407/151440.329:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+4월 07, 2025 15:14:40.41 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 07, 2025 15:22:17.73 [24964:20792:0407/152217.738:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 07, 2025 16:30:33.20 [24964:20792:0407/163033.205:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 07, 2025 16:30:33.51 [24964:11760:0407/163033.519:ERROR:get_updates_processor.cc(267)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_IO_SUSPENDED)
+4월 07, 2025 16:30:33.52 [24964:20792:0407/163033.519:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+4월 07, 2025 16:40:43.04 [24964:7472:0407/164043.044:ERROR:get_updates_processor.cc(267)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_IO_SUSPENDED)
+4월 07, 2025 16:40:48.00 [24964:20792:0407/164048.008:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+4월 07, 2025 16:40:48.76 [24964:24096:0407/164048.760:ERROR:get_updates_processor.cc(267)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+
+4월 21, 2025 12:12:35.99 NEW SESSION
+4월 21, 2025 12:12:35.99 [17740:17524:0421/121235.989:ERROR:cloud_policy_validator.cc(616)] New signature verification failed
+4월 21, 2025 12:12:38.38 [17740:5896:0421/121238.389:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 21, 2025 12:12:38.43 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 21, 2025 12:13:06.17 [17740:5896:0421/121306.176:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 21, 2025 12:13:51.03 [17740:5896:0421/121351.033:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 21, 2025 12:15:15.20 [17740:5896:0421/121515.202:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 21, 2025 12:19:09.76 [17740:5896:0421/121909.768:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 21, 2025 12:21:32.23 [17740:17524:0421/122132.234:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 21, 2025 12:26:48.29 [17740:5896:0421/122648.294:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT

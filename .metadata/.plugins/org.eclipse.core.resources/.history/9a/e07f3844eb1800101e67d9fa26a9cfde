@@ -1,0 +1,6 @@
+package exam;
+
+//DTO(V0) Class: 여러개의 변수를 하나의 객체로 묶는 역할
+public class MemberDTO {
+	// 1. 멤버변수 선언: 정보은닉(접근제어자 private 선언), 변수명은 반드시 DB 컬럼ID명과 일치!!
+}
